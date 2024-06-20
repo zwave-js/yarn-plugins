@@ -2,5 +2,6 @@
 /.yarn/build-state.yml
 /.yarn/cache
 bundles/
+!packages/changed/bundles
 /.yarn/install-state.gz
 node_modules
